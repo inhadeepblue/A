@@ -1,0 +1,3 @@
+3주차 수업내용
+- linux 명령어 기초 복습 (ls touch cat)
+- git 명령어 기초 복습 (init add commit log status push 등)
