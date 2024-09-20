@@ -6,3 +6,4 @@
 - git config --list
 - git remote remove origin (기존의 원격리포지토리 주소를 변경하려면 삭제를 해야 한다)
 - git remote add origin "연결할 원격리포지토리 주소"
+- push명령어 사용시 -u를 한번 사용 하면 그 이후 부터는 git push만 사용가능
